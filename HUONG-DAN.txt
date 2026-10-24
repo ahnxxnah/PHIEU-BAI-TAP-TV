@@ -1,16 +1,7 @@
-HỌC TIẾNG VIỆT MỖI NGÀY 2026 - WEBSITE MỚI
+PHIẾU TIẾNG VIỆT 2026.2 - CHỐNG TRÙNG CÂU
 
-CÁCH 1 - ĐĂNG TRANG MỚI KHÔNG CẦN GITHUB
-1. Vào https://app.netlify.com/drop
-2. Kéo tệp ZIP này hoặc tệp index.html vào trang.
-3. Netlify cung cấp địa chỉ mới dạng https://ten-ngau-nhien.netlify.app/
-4. Mở địa chỉ mới để dùng. Muốn giữ và sửa về sau, hãy tạo tài khoản nhận quyền quản lý.
+Gói này chứa index.html của website độc lập. Để đăng một link mới, vào https://app.netlify.com/drop hoặc tải index.html lên repository GitHub mới rồi bật Pages.
 
-CÁCH 2 - GITHUB PAGES VỚI KHO MỚI
-1. Tạo một repository mới ở https://github.com/new (ví dụ: tieng-viet-moi-2026).
-2. Tải lên index.html, commit.
-3. Settings > Pages > Build and deployment > Deploy from a branch, main, /(root), Save.
-4. Website mới có dạng https://ahnxxnah.github.io/tieng-viet-moi-2026/ nếu đúng tài khoản và tên repo ví dụ.
+Tính năng: mỗi câu trong cùng đề chỉ dùng một lần, không nhân bản bằng dòng (Luyện tập 2), một đoạn đọc hiểu chỉ dùng một lần. Nút Chia đều không phân nhiều hơn số câu khác nhau có sẵn của từng dạng.
 
-Trang hoàn toàn mới, không yêu cầu sw.js hoặc manifest.
-Các bài đọc là nội dung tự biên soạn theo định hướng, không sao chép SGK.
+Nếu loại bài/giai đoạn không đủ câu, chọn thêm dạng khác, chuyển chế độ kiến thức cũ hoặc giảm tổng số câu.
